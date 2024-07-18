@@ -12,3 +12,4 @@ C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\refint\Unity.dll
 C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.pdb
 C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.genruntimeconfig.cache
 C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\ref\Unity.dll
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.sourcelink.json
