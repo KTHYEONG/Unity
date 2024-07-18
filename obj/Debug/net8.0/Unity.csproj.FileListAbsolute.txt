@@ -1,0 +1,14 @@
+C:\Users\xogud\Unity\Unity\bin\Debug\net8.0\Unity.exe
+C:\Users\xogud\Unity\Unity\bin\Debug\net8.0\Unity.deps.json
+C:\Users\xogud\Unity\Unity\bin\Debug\net8.0\Unity.runtimeconfig.json
+C:\Users\xogud\Unity\Unity\bin\Debug\net8.0\Unity.dll
+C:\Users\xogud\Unity\Unity\bin\Debug\net8.0\Unity.pdb
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.AssemblyInfoInputs.cache
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.AssemblyInfo.cs
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.csproj.CoreCompileInputs.cache
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.dll
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\refint\Unity.dll
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.pdb
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\Unity.genruntimeconfig.cache
+C:\Users\xogud\Unity\Unity\obj\Debug\net8.0\ref\Unity.dll
